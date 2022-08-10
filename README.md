@@ -1,10 +1,10 @@
 # Final Year Project
 
 ## Discription :small_red_triangle_down: :-
-panademic Openboard
+Openboard 
 Added Functionalities using Canvas & JavaScript library.
-This project will solve problems faced while keeping social distance in pandaemic situation.
-The idea here is to teach students through whiteboard but in virtual platform.
+This project will solve problems faced in group study while multiple user have to write on the same page.
+The idea here is to teach students or group study through whiteboard but in virtual platform.
  
  
  
