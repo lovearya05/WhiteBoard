@@ -22,7 +22,7 @@ Project is created with:
 
   
 ## Deploy Uing Heroku :-
-[Click Link](https://sharingwhiteboard.herokuapp.com/)
+[Click Link](https://white-board-lovepreet.herokuapp.com/)
 
 
 
