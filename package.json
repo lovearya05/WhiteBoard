@@ -1,4 +1,5 @@
 {
+  "homepage": "http://lovearya05.github.io/WhiteBoard",
   "name": "Writing_Board",
   "version": "1.0.0",
   "description": "",
@@ -7,9 +8,13 @@
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "scripts": {
-    "start":"node express"
+    "start": "node express",
+    "predeploy": "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "repository": {
     "type": "git",

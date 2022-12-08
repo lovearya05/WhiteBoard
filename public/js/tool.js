@@ -1,6 +1,7 @@
 // connect to socket server
-const socket = io.connect("https://pepboard.herokuapp.com/");
+const socket = io.connect("http://lovearya05.github.io/WhiteBoard");
 // *********************************Basic Setup
+
 const board = document.querySelector(".board");
 board.height = window.innerHeight;
 board.width = window.innerWidth;
