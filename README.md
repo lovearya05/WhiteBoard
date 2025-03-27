@@ -21,8 +21,8 @@ Project is created with:
 ![UI Image](./UI.png)
 
   
-## Deploy Uing Heroku :-
-[Click Link](https://white-board-lovepreet.herokuapp.com/)
+## Deploy Link :-
+[Click Link](https://white-board-liart.vercel.app/)
 
 
 
